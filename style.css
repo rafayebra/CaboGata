@@ -18,28 +18,8 @@
     width: 600px;
 }
 
-h1 {
-    font-weight: bold;
-    color: #4c4c4c;
-    font-style: normal;
-    font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
-    text-align: center;
-    margin: 10px;
-    margin-bottom: 0;
-}
-
-h2 {
-    font-weight: 400;
-    color: #4c4c4c;
-    font-style: normal;
-    font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
-    text-align: center;
-    margin: 10px;
-    margin-top: 0px;
-}
-
 #titulo1 {
-    /* font-weight: bold; */
+    font-size: x-large;
     color: #4c4c4c;
     font-style: normal;
     font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
@@ -49,7 +29,7 @@ h2 {
 }
 
 #titulo2 {
-    font-weight: 400;
+    font-size: large;
     color: #4c4c4c;
     font-style: normal;
     font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
@@ -58,6 +38,31 @@ h2 {
     margin-top: 0px;
 }
 
+/*
+h1 {
+    font-weight: bold;
+    color: #4c4c4c;
+    font-style: normal;
+    font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 0;
+}
+*/
+
+/*
+h2 {
+    font-weight: 400;
+    color: #4c4c4c;
+    font-style: normal;
+    font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
+    text-align: center;
+    margin: 10px;
+    margin-top: 0px;
+}
+*/
+
+/*
 p {
     font-size: large;
     font-weight: 400;
@@ -65,4 +70,4 @@ p {
     font-style: normal;
     font-family: "Avenir Next W01","Avenir Next W00","Avenir Next",Avenir,"Helvetica Neue",sans-serif;
 }
-
+*/
