@@ -1,6 +1,10 @@
+body {
+    background: #D1EFD8
+}
+
 #centrado {
     padding: 30px;
-    background: #D1EFD8;
+    /* background: #D1EFD8; */
     display: flex;
     justify-content: center;
     align-items: center;
